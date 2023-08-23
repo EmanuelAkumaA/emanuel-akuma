@@ -145,9 +145,9 @@ section{
 }
 
 .text-animate h2{
-    font-size: 2rem;
+    font-size: 25px;
     font-weight: 700;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     color: transparent;
     -webkit-text-stroke: 0.1vw #770753;
     background: var(--gradient-color-bg);
